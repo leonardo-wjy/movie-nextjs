@@ -2,6 +2,10 @@
 
 ## Getting Started
 
+Get your api key in https://developer.themoviedb.org/docs/getting-started
+
+insert your api key into .env.local
+
 First, run the development server:
 
 ```bash
