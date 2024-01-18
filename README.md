@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Get your api key in https://developer.themoviedb.org/docs/getting-started
+Get your api key in https://www.themoviedb.org/
 
 insert your api key into .env.local
 
